@@ -22,6 +22,10 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+# TASK list
+- [x] first check
+- [ ] second check
+- [ ] third check
 
 **Bold** and _Italic_ and `Code` text
 **Bold and nested _Italic_**
@@ -35,7 +39,7 @@ Syntax highlighted code block
 `git status`
 
 # links and images
-[Link](https://github.com/arthurwty029/arthurwty029.github.io/) and ![Image](D6A9C24B-FA34-4614-85DF-4EBD7EC6E1E6.jpeg)
+[Link](https://github.com/arthurwty029/arthurwty029.github.io/bolb/main/index.md/) and ![Image](arthurwty029.github.io/D6A9C24B-FA34-4614-85DF-4EBD7EC6E1E6.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
