@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Arthur's Pages
 
 You can use the [editor on GitHub](https://github.com/arthurwty029/arthurwty029.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+The following involves elements and constructs for CSE 110 Lab 1.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/arthurwty029/arthurwty029.github.io) and ![Image](D6A9C24B-FA34-4614-85DF-4EBD7EC6E1E6.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
