@@ -16,6 +16,10 @@ Syntax highlighted code block
 ### Header 2
 #### Header 3
 
+
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 # styling text
 - Bulleted
 - List
@@ -31,7 +35,6 @@ Syntax highlighted code block
 **Bold and nested _Italic_**
 ***All bold and italic***
 ~~This was mistaken text~~
-
 # Quoting text
 > Quoting here!
 
@@ -41,12 +44,8 @@ Syntax highlighted code block
 # links and images
 [Link](https://github.com/arthurwty029/arthurwty029.github.io/bolb/main/index.md/)
 and ![Image relative link](arthurwty029/arthurwty029.github.io/D6A9C24B-FA34-4614-85DF-4EBD7EC6E1E6.jpeg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+# section link[click here](https://github.com/arthurwty029/arthurwty029.github.io/bolb/main/index.md/)
 ### Jekyll Themes
-
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arthurwty029/arthurwty029.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
