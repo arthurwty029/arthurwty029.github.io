@@ -39,7 +39,8 @@ Syntax highlighted code block
 `git status`
 
 # links and images
-[Link](https://github.com/arthurwty029/arthurwty029.github.io/bolb/main/index.md/) and ![Image](arthurwty029.github.io/D6A9C24B-FA34-4614-85DF-4EBD7EC6E1E6.jpeg)
+[Link](https://github.com/arthurwty029/arthurwty029.github.io/bolb/main/index.md/)
+and ![Image relative link](arthurwty029/arthurwty029.github.io/D6A9C24B-FA34-4614-85DF-4EBD7EC6E1E6.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
